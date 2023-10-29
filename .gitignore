@@ -1,0 +1,4 @@
+# ping-pong .gitignore
+venv/
+__pycache__/
+.idea/
